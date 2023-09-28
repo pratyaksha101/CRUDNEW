@@ -1,0 +1,47 @@
+.add_btn {
+  text-align: right;
+}
+
+.container {
+  overflow: auto;
+}
+
+.left_view h3 {
+  font-size: 21px;
+}
+
+.left_view p {
+  font-weight: 600;
+
+}
+
+.right_view p {
+  font-weight: 600;
+
+}
+
+.right_view span {
+  font-weight: 400;
+}
+
+.left_view span {
+  font-weight: 400;
+  margin-left: 5px;
+}
+
+
+.btn-add {
+  margin-top: -124px;
+  margin-left: 242px;
+}
+
+
+
+#Submit {
+  width: 234px;
+  margin-top: 17px;
+}
+.h1-detail{
+  color: red;
+  font-weight: bold;
+}
